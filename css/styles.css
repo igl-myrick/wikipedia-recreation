@@ -1,0 +1,17 @@
+.container-fluid {
+  width: 80%;
+  padding: 8px;
+}
+
+.logo {
+  width: 50px;
+  float: right;
+}
+
+.signup {
+  float: right;
+}
+
+body {
+  font-family: sans-serif;
+}
