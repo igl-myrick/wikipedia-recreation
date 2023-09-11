@@ -1,6 +1,16 @@
-.container-fluid {
+.topbar {
   width: 80%;
   padding: 8px;
+}
+
+.pages {
+  width: 75px;
+  float: left;
+}
+
+.options {
+  width: 85px;
+  float: right;
 }
 
 .logo {
@@ -10,6 +20,12 @@
 
 .signup {
   float: right;
+}
+
+.main-page {
+  width: 55%;
+  padding: 40px;
+  font-size: small;
 }
 
 body {
