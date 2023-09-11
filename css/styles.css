@@ -43,6 +43,28 @@
   line-height: 10px;
 }
 
+.featured-article {
+  float: left;
+  width: 540px;
+  background-color: #d6f7d6;
+  border: solid #b8f7b8;
+}
+
+.featured-article h5 {
+  background-color: #b8f7b8;
+}
+
+.news {
+  float: right;
+  width: 430px;
+  background-color: #d7f0f8;
+  border: solid #add8e6;
+}
+
+.news h5 {
+  background-color: #add8e6;
+}
+
 body {
   font-family: sans-serif;
 }
