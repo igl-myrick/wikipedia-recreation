@@ -4,12 +4,12 @@
 }
 
 .pages {
-  width: 75px;
+  width: 80px;
   float: left;
 }
 
 .options {
-  width: 85px;
+  width: 80px;
   float: right;
 }
 
@@ -26,6 +26,21 @@
   width: 55%;
   padding: 40px;
   font-size: small;
+}
+
+.tools {
+  color: black;
+}
+
+.read {
+  width: 42px;
+}
+
+.about-us {
+  border: solid #d3d3d3;
+  background-color: #f1f1f1;
+  text-align: center;
+  line-height: 10px;
 }
 
 body {
