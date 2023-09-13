@@ -32,6 +32,11 @@
   color: black;
 }
 
+.languages {
+  float: right;
+  font-weight: bold;
+}
+
 .read {
   width: 42px;
 }
@@ -66,7 +71,6 @@
 
 .img-left {
   float: left;
-  font-size: x-small;
   padding: 5px;
 }
 
@@ -110,6 +114,29 @@
 .featured-picture img {
   height: 479px;
   width: 300px;
+}
+
+.i-90 {
+  width: 177px;
+  font-size: x-small;
+}
+
+.storm-daniel {
+  width: 134px;
+  float: right;
+  font-size: x-small;
+}
+
+.browning {
+  width: 186px;
+  float: right;
+  font-size: x-small;
+}
+
+.vorne {
+  float: right;
+  font-size: x-small;
+  width: 131px;
 }
 
 .other-areas {
