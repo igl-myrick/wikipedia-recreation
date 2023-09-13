@@ -56,17 +56,16 @@
   padding: 4px;
   background-color: #e9fce9;
   border: solid #b8f7b8;
-  height: 902px;
 }
 
 .featured-article h6 {
   background-color: #b8f7b8;
   font-weight: bold;
+  padding: 4px;
 }
 
 .img-left {
   float: left;
-  width: 170px;
   font-size: x-small;
   padding: 5px;
 }
@@ -87,6 +86,7 @@
 .news h6 {
   background-color: #add8e6;
   font-weight: bold;
+  padding: 4px;
 }
 
 .more-links {
@@ -104,11 +104,32 @@
 .featured-picture h6 {
   background-color: #b8a2b8;
   font-weight: bold;
+  padding: 4px;
 }
 
 .featured-picture img {
   height: 479px;
   width: 300px;
+}
+
+.other-areas {
+  padding: 4px;
+  background-color: #ffffff;
+  border: solid #eeeeee;
+}
+
+.other-areas h6 {
+  background-color: #eeeeee;
+  font-weight: bold;
+  padding: 4px;
+}
+
+.links a {
+  font-weight: bold;
+}
+
+.center {
+  text-align: center;
 }
 
 body {
