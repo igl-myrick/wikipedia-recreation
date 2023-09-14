@@ -61,6 +61,7 @@
   padding: 4px;
   background-color: #e9fce9;
   border: solid #b8f7b8;
+  height: 976px;
 }
 
 .featured-article h6 {
@@ -94,7 +95,7 @@
 }
 
 .more-links {
-  float: right;
+  text-align: right;
   font-weight: bold;
 }
 
